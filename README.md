@@ -7,3 +7,7 @@ In this code a bell icon animate whenver a user clicks on button with updated no
 
 [DOWNLOAD THE APK FILE](https://www.dropbox.com/s/nplvmwhxt7nyute/Animate%20Notification.apk?dl=0)
 
+[DEMO VIDEO](https://www.youtube.com/watch?v=yUyGH7w-9mw)
+
+
+
